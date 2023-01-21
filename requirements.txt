@@ -1,0 +1,12 @@
+pydantic
+fastapi
+passlib
+requests
+colorlog
+python-multipart
+python-jose[cryptography]
+pymongo
+mnemonic
+starlette
+typed-ast
+eth-brownie
